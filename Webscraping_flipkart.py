@@ -28,7 +28,7 @@ for i in range(1, 4):  # iterating for first 3 pages
     prices = []
     ratings = []
 
-    # iterating for all mobs on the page
+    # iterating for all mobiles on the page
     for j in soup.findAll('a', href=True, attrs={'class': '_1fQZEK'}):
         name = j.find('div', attrs={'class': '_4rR01T'})
         price = j.find('div', attrs={'class': '_30jeq3 _1_WHN1'})
