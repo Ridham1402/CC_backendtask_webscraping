@@ -1,5 +1,5 @@
 # CC_backendtask_webscraping
-Submission of Webscraping Task 
+Submission of Webscraping Task for recruitment of Coding Club(Backend dev)
 
 
 # CSV file
