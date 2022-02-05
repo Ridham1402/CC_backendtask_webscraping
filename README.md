@@ -5,5 +5,5 @@ Submission of Webscraping Task
 # CSV file
 mobiles.csv would be created once the program(.py) runs
 
-#Libraries used
+# Libraries used
 CSV, requests, BeautifulSoup from bs4
