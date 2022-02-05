@@ -1,0 +1,11 @@
+Web Scraping
+
+In this task, you will have to make a python program which searches for "mobiles" on flipkart, which returns a number of pages with different mobiles available on their website.
+
+You then have to iterate through all the mobiles returned on the first 3 pages and look for the mobiles with a user rating of more than or equal to "4.4" and store them in a csv file. You have to store the "name" of the mobile, "user_rating", and the "price" of the mobiles in the csv file.
+
+After finishing the task, push all of your code to a PUBLIC GitHub repository and share the link to that repository.
+
+You have 2 days to complete this task. The deadline for the task is Sunday, 6th Feb 8:00 PM
+
+Some hints as to how to scrape a web page are to use beautifulSoup.
